@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { SectionHeader } from './About';
 
-import lab from "../assets/Lab Workspace.png";
+import lab from "../assets/Lab Workspace.jpeg";
 import schoolWorkshop from "../assets/School Workshop.png";
 import smartSchool from "../assets/Smart School.jpeg";
 import safetyBand from "../assets/Safety Band.png";
