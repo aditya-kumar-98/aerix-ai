@@ -7,7 +7,7 @@ import smartSchool from "../assets/Smart School.jpeg";
 import safetyBand from "../assets/Safety Band.png";
 import aerixa from "../assets/AERIXA.png";
 import aiAssistant from "../assets/AI Assistant.png";
-import workshop from "../assets/Workshop.png";
+import workshop from "../assets/School Workshop.png";
 import aerospace from "../assets/Aerospace.png";
 
 const categories = ['ALL', 'EDUCATION', 'SAFETY', 'AEROSPACE', 'AI SYSTEMS'];
