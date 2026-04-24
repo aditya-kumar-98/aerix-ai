@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { SectionHeader } from './About';
 
-import schoolImg from "../assets/Smart School.png";
+import schoolImg from "../assets/Smart School.jpeg";
 import deviceImg from "../assets/Ai_assistant_voice_box.png";
 import safetyImg from "../assets/shaki_band_ai.png";
 import assistantImg from "../assets/AI Assistant.png";

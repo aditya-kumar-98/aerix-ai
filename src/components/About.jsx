@@ -1,6 +1,6 @@
 import React from 'react';
-import lab from "../assets/Lab Workspace.png";
-import schoolWorkshop from "../assets/School Workshop.png";
+import lab from "../assets/Lab Workspace.jpeg";
+import schoolWorkshop from "../assets/School Workshop.jpeg";
 import aerixLogo from "../assets/AERIX AI.png";
 import aiIcon from "../assets/AI Innovation.png";
 import eduIcon from "../assets/Smart Education.png";

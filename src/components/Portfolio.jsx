@@ -3,7 +3,7 @@ import { SectionHeader } from './About';
 
 import lab from "../assets/Lab Workspace.png";
 import schoolWorkshop from "../assets/School Workshop.png";
-import smartSchool from "../assets/Smart School.png";
+import smartSchool from "../assets/Smart School.jpeg";
 import safetyBand from "../assets/Safety Band.png";
 import aerixa from "../assets/AERIXA.png";
 import aiAssistant from "../assets/AI Assistant.png";
