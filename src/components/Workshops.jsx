@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { SectionHeader } from './About';
 import aiIcon from '../assets/AI & Smart Technology.png';
 import safetyIcon from '../assets/Women Safety Tech Workshop.png';
-import chatbotIcon from '../assets/AI Assistant & Chatbot Development.png';
+import chatbotIcon from '../assets/AI Assistant.png';
 import rocketIcon from '../assets/rocket_icon.png';
 
 const workshops = [
